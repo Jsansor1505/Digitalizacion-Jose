@@ -10,3 +10,4 @@
 3. Elemento 6
 <!-- comentario -->
 [Texto del enlace](http://www.ejemplo.com)
+![Texto alternativo](ruta/imagen.jpg)
