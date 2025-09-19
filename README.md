@@ -5,5 +5,8 @@
 - Elemento 1
 * Elemento 2
 + Elemento 3
+1. Elemento 4
+2. Elemento 5
+3. Elemento 6
 <!-- comentario -->
 [Texto del enlace](http://www.ejemplo.com)
