@@ -3,11 +3,5 @@
    ## *Encabezado de nivel 2*
    ### ~~Encabezado de nivel 3~~
 - Elemento 1
-- Elemento 2
-- Elemento 3
-* Elemento 1
 * Elemento 2
-* Elemento 3
-+ Elemento 1
-+ Elemento 2
 + Elemento 3
