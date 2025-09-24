@@ -1,10 +1,8 @@
-<h1 align="center">Hola 👋, soy Jose Sanchez</h1>
-<h3 align="center">Un aspirante a programador</h3>
+<h1 align="center">Repositorio</h1>
+<h3 align="center">Este es un repositorio de la asignatura "Lenguaje de marcas"</h3>
 
-- 🌱 Esto aprendiendo **programación principalmente**
+- Soy José Sánchez
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
